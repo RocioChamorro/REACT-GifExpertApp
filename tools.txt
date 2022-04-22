@@ -1,0 +1,23 @@
+Creandfo proyecto:
+create-react-app
+API key
+https://developers.giphy.com/dashboard/
+
+Nota1:
+se necesita una expresión que retorne algo cuando se escribe js en React, el for no retorna nada
+return ( 
+	<>
+		{
+		 //Expresión
+		   categories.map( (category, i) => {
+		   	return <li key></li>
+		   } )
+		}
+	</>
+)
+Nota2:
+Para los click al dar enter, se requiere usar un <form onSubmit={function}>
+dentro de la function  e.preventDefault()
+
+Para validaciones:
+npm i prop-types
