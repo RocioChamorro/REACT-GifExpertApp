@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT-GifExpertApp/static/css/main.28317f23.css",
+    "main.js": "/REACT-GifExpertApp/static/js/main.a078ba3b.js",
+    "index.html": "/REACT-GifExpertApp/index.html",
+    "main.28317f23.css.map": "/REACT-GifExpertApp/static/css/main.28317f23.css.map",
+    "main.a078ba3b.js.map": "/REACT-GifExpertApp/static/js/main.a078ba3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28317f23.css",
+    "static/js/main.a078ba3b.js"
+  ]
+}
