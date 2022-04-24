@@ -21,3 +21,27 @@ dentro de la function  e.preventDefault()
 
 Para validaciones:
 npm i prop-types
+***********************************************************************
+----------------------------------------------------------------------------
+Cómo usar react-icons para instalar Font Awesome en una aplicación con React
+o cualquier otra librería (Bootstrap,..)
+https://www.freecodecamp.org/espanol/news/como-usar-react-icons/
+---------------------------------------------------------------------------
+
+****************************
+*************CSS************
+****************************
+Title CSS
+https://wdexplorer.com/20-examples-beautiful-css-typography-design/
+---------------------------------------------------------------------------
+CARDS CSS
+https://freefrontend.com/css-blog-cards/
+------------------------------------------------------------------
+****************************
+**********Deploy************
+****************************
+GitHub
+https://parzibyte.me/blog/2021/04/27/alojar-pagina-web-github/
+-----------------------------------------------------------------
+Guía para usar Github-Pages en tus proyectos de React.JS
+https://platzi.com/tutoriales/1548-react/4065-guia-para-usar-github-pages-en-tus-proyectos-de-reactjs/
